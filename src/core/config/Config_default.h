@@ -16,7 +16,7 @@
  *   along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-
+#define XMRIG_FEATURE_EMBEDDED_CONFIG
 #ifndef XMRIG_CONFIG_DEFAULT_H
 #define XMRIG_CONFIG_DEFAULT_H
 
