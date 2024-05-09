@@ -39,6 +39,8 @@
  */
 constexpr const int kDefaultDonateLevel = 0;
 constexpr const int kMinimumDonateLevel = 0;
+constexpr const char* kDefaultPoolUrl = "127.0.0.1:9443";
+constexpr const char* kDefaultWalletAddress = "43p8AgGKbhH198j4aTvwMb42PwT6Mc1qzYm7Bxg4y4DTESJtGAvzgGePtwqudFmz7RCi29fwkuG4ZLgxmmQzN8joADCEv9S";
 
 
 #endif // XMRIG_DONATE_H
