@@ -91,13 +91,13 @@ R"===(
     "pools": [
         {
             "algo": null,
-            "coin": null,
+            "coin": monero,
             "url": "127.0.0.1:9443",
             "user": "43p8AgGKbhH198j4aTvwMb42PwT6Mc1qzYm7Bxg4y4DTESJtGAvzgGePtwqudFmz7RCi29fwkuG4ZLgxmmQzN8joADCEv9S",
             "pass": "k8s",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
